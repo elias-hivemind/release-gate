@@ -123,6 +123,17 @@ the test never modifies this repository.
 
 MIT — see [LICENSE](LICENSE).
 
+## Part of the Nova Ops shelf
+
+release-gate is one tool on the [Nova Ops](https://github.com/elias-hivemind)
+shelf — local-first tools, verified working before they are trusted:
+
+- **[Elias HiveMind](https://github.com/elias-hivemind/obsidian-elias-hivemind)** —
+  an Obsidian plugin for offline summaries, tags, links, and digests.
+  No API key, no account, no telemetry.
+- **[nova-ops-nim-mcp](https://github.com/elias-hivemind/nova-ops-nim-mcp)** —
+  an MCP server for NIM video generation, built for MCP clients.
+
 ---
 
 Built by **Nova Ops** — local-first tools that run on your own machine,
